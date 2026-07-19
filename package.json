@@ -26,15 +26,15 @@
   "license": "MIT",
   "dependencies": {
     "@1password/sdk": "^0.4.0",
-    "@anthropic-ai/sdk": "^0.110.0",
+    "@anthropic-ai/sdk": "^0.111.0",
     "@iarna/toml": "^2.2.5",
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@types/node": "^26.1.0",
-    "@vitest/coverage-v8": "^4.1.9",
+    "@types/node": "^26.1.1",
+    "@vitest/coverage-v8": "^4.1.10",
     "tsx": "^4.23.0",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "vitest": "^4.0.18"
   },
   "engines": {
